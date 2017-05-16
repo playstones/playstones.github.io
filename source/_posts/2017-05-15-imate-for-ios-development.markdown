@@ -3,7 +3,7 @@ layout: post
 title: "iOS开发利器 iMate-for iOS development"
 date: 2017-05-15 17:47:58 +0800
 comments: true
-categories: iOS, Mac, Simulator, Sandbox, development
+categories: iOS Mac Simulator Sandbox development
 ---
 
 下载地址 [iMate -- for iOS development](https://itunes.apple.com/cn/app/imate-for-ios-development/id1225021443?l=en&mt=12)
