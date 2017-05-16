@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: sandbox, | Play Stone]]></title>
+  <title><![CDATA[Category: sandbox | Play Stone]]></title>
   <link href="http://playstones.github.io/blog/categories/sandbox/atom.xml" rel="self"/>
   <link href="http://playstones.github.io/"/>
-  <updated>2017-05-15T20:12:33+08:00</updated>
+  <updated>2017-05-16T17:29:20+08:00</updated>
   <id>http://playstones.github.io/</id>
   <author>
     <name><![CDATA[playstone]]></name>
